@@ -1,0 +1,719 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"view",
+				"view_func"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"s",
+				"sans-serif"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"st",
+				"list-style"
+			],
+			[
+				"colo",
+				"background-color"
+			],
+			[
+				"H2",
+				"h2	Tag"
+			],
+			[
+				"ALLOW",
+				"ALLOWED_EXTENSIONS"
+			],
+			[
+				"upl",
+				"UPLOAD_FOLDER"
+			],
+			[
+				"UPLOA",
+				"UPLOAD_FOLDER"
+			],
+			[
+				"order",
+				"ordered_warranty"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"ship",
+				"ship_date"
+			],
+			[
+				"Ht",
+				"HttpResponse"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"my",
+				"my_homepage_view"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"salt",
+				"salt2"
+			],
+			[
+				"PHP",
+				"PHP_AUTH_PW"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"sani",
+				"sanitizeString"
+			],
+			[
+				"mysql_r",
+				"mysql_real_escape_string"
+			],
+			[
+				"sub",
+				"subresult"
+			],
+			[
+				"mysql_in",
+				"mysql_insert_id"
+			],
+			[
+				"mysql_fet",
+				"mysql_fetch_row"
+			],
+			[
+				"mys",
+				"mysql_close"
+			],
+			[
+				"_",
+				"_END"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_row"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"db",
+				"db_server"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"mysql_e",
+				"mysql_error"
+			],
+			[
+				"msql",
+				"msql_connect"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.py",
+			"settings":
+			{
+				"buffer_size": 2238,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "docs.py",
+			"settings":
+			{
+				"buffer_size": 214,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/base.html",
+			"settings":
+			{
+				"buffer_size": 1954,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/docs.html",
+			"settings":
+			{
+				"buffer_size": 711,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/img/koc2.svg",
+			"settings":
+			{
+				"buffer_size": 25819,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/style.css",
+			"settings":
+			{
+				"buffer_size": 1832,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/chome-preview.sublime-build",
+	"command_palette":
+	{
+		"height": 267.0,
+		"selected_items":
+		[
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 376.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Zak/projects/knights3/static/img/koc.svg",
+		"/Users/Zak/projects/knights3/static/img/home_cover.jpg",
+		"/Users/Zak/projects/knights3/main.py",
+		"/Users/Zak/projects/knights3/music.py",
+		"/Users/Zak/projects/knights3/templates/music.html",
+		"/Users/Zak/Downloads/Towns/audio.ini",
+		"/Volumes/Mumble 1.2.3a/Murmur Extras/murmur.ini",
+		"/Users/Zak/projects/wiki/notes.html",
+		"/Users/Zak/projects/knights3/app.py",
+		"/Users/Zak/projects/knights3/templates/index.html",
+		"/Users/Zak/projects/knights3/templates/base.html",
+		"/Users/Zak/projects/knights3/templates/deputies.html",
+		"/Users/Zak/projects/knights3/static/jquery.js",
+		"/Users/Zak/projects/knights3/events.py",
+		"/Users/Zak/projects/knights3/users.py",
+		"/Users/Zak/projects/knights3/templates/login.html",
+		"/Users/Zak/projects/knights3/login.py",
+		"/Users/Zak/projects/knights3/templates/events.html",
+		"/Users/Zak/projects/knights3/templates/users.html",
+		"/Users/Zak/Downloads/Linksys_E3000V1_v1.0.04.cfg",
+		"/Users/Zak/Desktop/judy.html",
+		"/Users/Zak/Documents/book.css",
+		"/Users/Zak/Desktop/download.php",
+		"/Users/Zak/projects/knights3/test.json",
+		"/Users/Zak/projects/knights3/static/style.css",
+		"/Users/Zak/projects/knights3/knights3.sublime-project",
+		"/Users/Zak/projects/knights3/templates/about.html",
+		"/Users/Zak/projects/knights3/templates/join.html",
+		"/Users/Zak/projects/site/app.py",
+		"/Users/Zak/projects/site/templates/about.html",
+		"/Users/Zak/projects/site/test.json",
+		"/Users/Zak/projects/site/utils.py",
+		"/Users/Zak/projects/site/templates/events.html",
+		"/Users/Zak/projects/site/events.py",
+		"/Users/Zak/projects/site/login.py",
+		"/Users/Zak/projects/site/templates/base.html",
+		"/Users/Zak/Desktop/tcs007 slide changes READ LATER",
+		"/Users/Zak/projects/site/templates/index.html",
+		"/Users/Zak/projects/site/remote.py",
+		"/Users/Zak/projects/site/templates/remote.html",
+		"/Users/Zak/projects/site/static/style.css",
+		"/Users/Zak/projects/site/templates/contact.html",
+		"/Users/Zak/projects/site/templates/join.html",
+		"/Volumes/GS108Ev2/setup.ini",
+		"/Users/Zak/projects/site/templates/deputies.html",
+		"/Users/Zak/projects/site/templates/officers.html",
+		"/Users/Zak/projects/site/legacy/officers.html",
+		"/Users/Zak/projects/site/legacy/deputies.html",
+		"/Users/Zak/Storage/knights_web_dev_latest/index.html",
+		"/Users/Zak/projects/site/legacy/blog.py",
+		"/Users/Zak/projects/site/static/img/level1_logo.jpg",
+		"/Users/Zak/projects/site/templates/404.html",
+		"/Users/Zak/Storage/knights_web_dev_latest/Knights.sublime-project",
+		"/Users/Zak/projects/site/templates/music.html",
+		"/Users/Zak/projects/site/templates/layout.html",
+		"/Users/Zak/projects/site/templates/login.html",
+		"/Users/Zak/projects/site/static/style2.css",
+		"/Users/Zak/projects/site/templates/login2.html",
+		"/Users/Zak/projects/site/blog.py",
+		"/Users/Zak/projects/site/templates/show_entries.html",
+		"/Users/Zak/projects/site/main.py",
+		"/Users/Zak/projects/site/settings.py",
+		"/Users/Zak/projects/site/music.py",
+		"/Users/Zak/projects/flaskr/test.json",
+		"/Users/Zak/projects/flaskr/flaskr_clean.py",
+		"/Users/Zak/projects/flaskr/flaskr.py",
+		"/Users/Zak/projects/flaskr2/out.out",
+		"/Users/Zak/projects/flaskr2/trash.py",
+		"/Users/Zak/projects/flaskr/templates/layout.html",
+		"/Users/Zak/projects/flaskr/templates/show_entries.html",
+		"/Users/Zak/projects/flaskr/templates/login.html",
+		"/Users/Zak/projects/flaskr2/flaskr.py",
+		"/Users/Zak/projects/flaskr2/templates/show_entries.html",
+		"/Users/Zak/projects/flaskr2/templates/layout.html",
+		"/Users/Zak/projects/flaskr2/templates/login.html",
+		"/Users/Zak/projects/flaskr/static/style.css",
+		"/Users/Zak/projects/flaskr/schema.sql",
+		"/Users/Zak/projects/flaskprojone/template/hello.html",
+		"/Users/Zak/projects/flaskprojone/hello.html",
+		"/Users/Zak/projects/flaskprojone/flask2.py",
+		"/Users/Zak/Storage/knights_web_dev_latest/rollover.js",
+		"/Users/Zak/projects/mysite/views.py",
+		"/Users/Zak/Library/Application Support/Sublime Text 2/Packages/User/chome-preview.sublime-build",
+		"/Users/Zak/Storage/knights_web_dev_latest/knights2.css",
+		"/Users/Zak/Storage/knights_web_dev_latest/index2.html",
+		"/Users/Zak/Storage/knights_web_dev_latest/knights.sublime-workspace",
+		"/Users/Zak/Desktop/Storage/knights_web_dev_latest/knights.sublime-project",
+		"/Users/Zak/Desktop/Storage/knights_web_dev_latest/tinydropdown2/tinydropdown.js",
+		"/Users/Zak/Desktop/Storage/knights_web_dev_latest/knights2.css",
+		"/Users/Zak/Desktop/Storage/knights_web_dev_latest/index2.html",
+		"/Users/Zak/Desktop/Storage/knights_web_dev_latest/calendar.html",
+		"/Users/Zak/Desktop/Storage/knights_web_dev_latest/tinydropdown2/tinydropdown.css",
+		"/Users/Zak/Desktop/knights_web_dev_latest/membership.html",
+		"/Users/Zak/Desktop/knights_web_dev_latest/index.html",
+		"/Users/Zak/Desktop/knights_web_dev_latest/rollover.js",
+		"/Users/Zak/Desktop/knights_web_dev_latest/index2",
+		"/Users/Zak/Desktop/jquery-1.7.2.js",
+		"/Users/Zak/Desktop/hello-svg.html",
+		"/Applications/MAMP/htdocs/authenticate.php",
+		"/Applications/MAMP/htdocs/form1.html",
+		"/Applications/MAMP/htdocs/cookie_test2.php",
+		"/Applications/MAMP/htdocs/db_query.php",
+		"/Applications/MAMP/htdocs/convert.php",
+		"/Applications/MAMP/htdocs/calc.php",
+		"/Applications/MAMP/htdocs/formtest.php",
+		"/Applications/MAMP/htdocs/cat_data.php",
+		"/Applications/MAMP/htdocs/sqltest.php",
+		"/Applications/MAMP/htdocs/login.php",
+		"/Applications/MAMP/htdocs/query.php",
+		"/Applications/MAMP/htdocs/upload.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/Zak/projects/knights3/templates/",
+			"/Users/Zak/projects/site/templates/",
+			"/Users/Zak/projects/site/templates/officers.html",
+			"/Users/Zak/projects/site/templates/deputies.html",
+			"/Users/Zak/projects/site/static/deputies.html",
+			"/Users/Zak/projects/site",
+			"/Users/Zak/projects/",
+			"/Users/Zak/projects/show_entries.html"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".ico",
+			"static/",
+			" %}",
+			"images/",
+			"USERNAME",
+			">\n",
+			"\"page\"",
+			"\"page\"  ",
+			"'page'",
+			"'page'\n",
+			" \n",
+			"show_entries.html",
+			"db",
+			"Firefox",
+			"li",
+			"' />"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/static/img/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.py",
+					"settings":
+					{
+						"buffer_size": 2238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								721,
+								721
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "docs.py",
+					"settings":
+					{
+						"buffer_size": 214,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								214,
+								214
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "templates/base.html",
+					"settings":
+					{
+						"buffer_size": 1954,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								431,
+								431
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "templates/docs.html",
+					"settings":
+					{
+						"buffer_size": 711,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								685,
+								685
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "static/img/koc2.svg",
+					"settings":
+					{
+						"buffer_size": 25819,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1648,
+								1648
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 900.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "static/style.css",
+					"settings":
+					{
+						"buffer_size": 1832,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								475,
+								475
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.729922975352,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 159.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 145.0,
+	"status_bar_visible": true
+}

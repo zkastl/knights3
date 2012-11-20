@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "username": "zak", 
+            "passwd": "cheese", 
+            "permissions": "admin"
+        }
+    ], 
+    "entries": [
+        {
+            "text": "I like Pie.", 
+            "title": "Dan Hogan's Event"
+        }, 
+        {
+            "text": "This is a textbox!", 
+            "title": "Entry One"
+        }
+    ]
+}
