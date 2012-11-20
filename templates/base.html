@@ -14,39 +14,36 @@
 		<div id='header'>
 			{# This part below is bad and I should feel bad :( #}
 			<table>
-				<tr>
-					<td><a href='{{url_for('main')}}'><img src='/static/img/koc2.svg' alt='kofc' width='313' height='75'></a></td>
-				</tr>
+				<tr><td><a id='head' href='{{url_for('main')}}'><img src='/static/img/koc2.svg' alt='kofc' width='313' height='75'></a></td></tr>
 			</table> {# This part that ends here #}
 		</div>
 		<div id='nav'>
 			<ul>
 				{% block nav %} {% endblock %}
-				<li><a href="{{url_for('main')}}">home</a></li>
-				<li><a href="/about/">about us</a></li>
-				<li><a href="/join/">why join us?</a></li>
-				<li><a href="/deputies/">deputies</a></li>
-				<li><a href="{{url_for('events')}}">events</a></li>
-				<li><a href="/officers/">officers</a></li>
-				<li><a href="/convention/">state convention 2012</a></li>
+				<li><a id="side" href="{{url_for('main')}}">home</a></li>
+				<li><a id="side" href="/about/">about us</a></li>
+				<li><a id="side" href="/join/">why join us?</a></li>
+				<li><a id="side" href="/deputies/">deputies</a></li>
+				<li><a id="side" href="{{url_for('events')}}">events</a></li>
+				<li><a id="side" href="/officers/">officers</a></li>
+				<li><a id="side" href="/convention/">state convention 2012</a></li>
 				<hr id='nav' />
-				<li><a href="http://www.kofc.org">national council</a></li>
-				<li><a href="http://www.kofcpierceagency.com">find an agent</a></li>
+				<li><a id="side" target="_blank" href="http://www.kofc.org">national council</a></li>
+				<li><a id="side" target="_blank" href="http://www.kofcpierceagency.com">find an agent</a></li>
 				<hr id='nav' />
 				{% if 'username' in session %}
-					<!--<li><a href="{{url_for('music')}}">music</a></li>-->
-					<li><a href="{{url_for('docs')}}">docs</a></li>
-					<li><a href="{{url_for('users')}}">users</a></li>
-					<li><a href="{{url_for('login')}}"><strong>logout</strong></a></li>
+					<li><a id="side" href="{{url_for('docs')}}">docs</a></li>
+					<li><a id="side" href="{{url_for('users')}}">users</a></li>
+					<li><a id="side" href="{{url_for('login')}}"><strong>logout</strong></a></li>
 				{% else %}
-					<li><a href="{{url_for('login')}}"><strong>login</strong></a></li>
+					<li><a id="side" href="{{url_for('login')}}"><strong>login</strong></a></li>
 				{% endif %}
 			</ul>
 		</div>
-		<div id='content'>
-			{% block body %} {% endblock %}
-		</div>
-		<!--<div id='rnav'><p>stuff</p></div>-->
+		<div id='content'>{% block body %} {% endblock %}</div>
+
+		<!--<div id='rnav'>This text goes here.</div>-->
+
 		{#<div id='flashed'>
 			{% with messages = get_flashed_messages() %}
 			{% for message in messages %}
