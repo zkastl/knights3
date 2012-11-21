@@ -6,7 +6,6 @@
 		<link rel="stylesheet" type="text/css" href="/static/style.css">
 		<script type="text/javascript" src='/static/jquery.js'></script>
 		<script type="text/javascript">
-
 		</script>
 	</head>
 	<body>
@@ -14,7 +13,13 @@
 		<div id='header'>
 			{# This part below is bad and I should feel bad :( #}
 			<table>
-				<tr><td><a id='head' href='{{url_for('main')}}'><img src='/static/img/koc2.svg' alt='kofc' width='313' height='75'></a></td></tr>
+				<tr>
+					<td>
+						<a href='{{url_for('main')}}'>
+							<img id='head_pic' src="/static/img/koc2.svg" width='313' height='75'>
+						</a>
+					</td>
+				</tr>
 			</table> {# This part that ends here #}
 		</div>
 		<div id='nav'>

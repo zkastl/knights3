@@ -1,4 +1,4 @@
-body            { font-family: sans-serif; background: #336699; border-radius: 15px; column-count: 3;}
+body            { font-family: "Lucida Grande", sans-serif; background: #336699; border-radius: 15px;}
 a, h1, h2       { color: #377BA8; text-decoration: none}
 h1, h2          { margin: 0; }
 /*h1              { border-bottom: 2px solid #111; }*/
