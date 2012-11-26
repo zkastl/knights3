@@ -17,7 +17,7 @@ div#nav
 {
   float: left;
   position: relative;
-  top: 50px;
+  top: 85px;
   left: 5px;
   width: 8.5em;
   border: 1px;
@@ -73,6 +73,7 @@ div#footer
   font-size: .75em;
 }
 
+.cAlign         { text-align: center;}
 .page           { margin: 1em auto; width: 60em; border: 6px solid #daa520;
                   padding: 0.8em; background: #E6DFE1; overflow: auto; min-height: 39em;}
 .entries        { list-style: none; margin: 0; padding: 0; }
