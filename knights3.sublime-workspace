@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"head",
+				"head_pic"
+			],
+			[
+				"nav",
+				"navigator"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
 				"bor",
 				"border-radius"
 			],
@@ -40,14 +60,6 @@
 				"text-align"
 			],
 			[
-				"font",
-				"font-size"
-			],
-			[
-				"back",
-				"background-color"
-			],
-			[
 				"marg",
 				"margin-left"
 			],
@@ -66,10 +78,6 @@
 			[
 				"st",
 				"list-style"
-			],
-			[
-				"colo",
-				"background-color"
 			],
 			[
 				"H2",
@@ -192,26 +200,26 @@
 	"buffers":
 	[
 		{
-			"file": "app.py",
-			"settings":
-			{
-				"buffer_size": 2238,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "docs.py",
-			"settings":
-			{
-				"buffer_size": 214,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "templates/base.html",
 			"settings":
 			{
-				"buffer_size": 1954,
+				"buffer_size": 2126,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/index.html",
+			"settings":
+			{
+				"buffer_size": 555,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/style.css",
+			"settings":
+			{
+				"buffer_size": 1941,
 				"line_ending": "Unix"
 			}
 		},
@@ -220,22 +228,6 @@
 			"settings":
 			{
 				"buffer_size": 711,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "static/img/koc2.svg",
-			"settings":
-			{
-				"buffer_size": 25819,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "static/style.css",
-			"settings":
-			{
-				"buffer_size": 1832,
 				"line_ending": "Unix"
 			}
 		}
@@ -280,6 +272,13 @@
 	},
 	"file_history":
 	[
+		"/Users/Zak/projects/knights3/app.py",
+		"/Users/Zak/projects/knights3/templates/404.html",
+		"/Users/Zak/projects/knights3/static/style.css",
+		"/Users/Zak/projects/knights3/static/img/koc2.svg",
+		"/Users/Zak/projects/knights3/templates/docs.html",
+		"/Users/Zak/projects/knights3/templates/base.html",
+		"/Users/Zak/projects/knights3/docs.py",
 		"/Users/Zak/projects/knights3/static/img/koc.svg",
 		"/Users/Zak/projects/knights3/static/img/home_cover.jpg",
 		"/Users/Zak/projects/knights3/main.py",
@@ -288,9 +287,7 @@
 		"/Users/Zak/Downloads/Towns/audio.ini",
 		"/Volumes/Mumble 1.2.3a/Murmur Extras/murmur.ini",
 		"/Users/Zak/projects/wiki/notes.html",
-		"/Users/Zak/projects/knights3/app.py",
 		"/Users/Zak/projects/knights3/templates/index.html",
-		"/Users/Zak/projects/knights3/templates/base.html",
 		"/Users/Zak/projects/knights3/templates/deputies.html",
 		"/Users/Zak/projects/knights3/static/jquery.js",
 		"/Users/Zak/projects/knights3/events.py",
@@ -304,7 +301,6 @@
 		"/Users/Zak/Documents/book.css",
 		"/Users/Zak/Desktop/download.php",
 		"/Users/Zak/projects/knights3/test.json",
-		"/Users/Zak/projects/knights3/static/style.css",
 		"/Users/Zak/projects/knights3/knights3.sublime-project",
 		"/Users/Zak/projects/knights3/templates/about.html",
 		"/Users/Zak/projects/knights3/templates/join.html",
@@ -449,83 +445,23 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "app.py",
-					"settings":
-					{
-						"buffer_size": 2238,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								721,
-								721
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "docs.py",
-					"settings":
-					{
-						"buffer_size": 214,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								214,
-								214
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Python/Python.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "templates/base.html",
 					"settings":
 					{
-						"buffer_size": 1954,
+						"buffer_size": 2126,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								431,
-								431
+								752,
+								752
 							]
 						],
 						"settings":
@@ -538,6 +474,72 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "templates/index.html",
+					"settings":
+					{
+						"buffer_size": 555,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								191,
+								191
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "static/style.css",
+					"settings":
+					{
+						"buffer_size": 1941,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								946,
+								946
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 290.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -554,8 +556,8 @@
 						"selection":
 						[
 							[
-								685,
-								685
+								177,
+								177
 							]
 						],
 						"settings":
@@ -565,74 +567,6 @@
 							"synced": false,
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "static/img/koc2.svg",
-					"settings":
-					{
-						"buffer_size": 25819,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1648,
-								1648
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/XML/XML.tmLanguage",
-							"tab_size": 3,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 900.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 5,
-					"file": "static/style.css",
-					"settings":
-					{
-						"buffer_size": 1832,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								475,
-								475
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -671,7 +605,7 @@
 		"cols":
 		[
 			0.0,
-			0.729922975352,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -682,6 +616,10 @@
 	},
 	"menu_visible": true,
 	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.git":
 	{
 		"height": 100.0
 	},
